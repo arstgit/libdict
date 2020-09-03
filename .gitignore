@@ -1,0 +1,7 @@
+dict_bench
+
+*.swp
+
+*.o
+
+.vscode/
